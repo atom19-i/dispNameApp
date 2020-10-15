@@ -1,3 +1,13 @@
 <resources>
+        <string-array name="name">
+            <item>Iti</item>
+            <item>Ronaldo</item>
+            <item>Aguero</item>
+            <item>Kevin</item>
+            <item>Zidane</item>
+        </string-array>
     <string name="app_name">dispNameApp</string>
+    <string name="dispAppName">dispAppName</string>
+    <string name="dispNameAp">dispNameApp</string>
+    <string name="dispNameApp">dispNameApp</string>
 </resources>
